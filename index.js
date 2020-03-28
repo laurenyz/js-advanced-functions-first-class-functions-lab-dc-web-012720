@@ -1,3 +1,5 @@
 const returnFirstTwoDrivers = function(drivers){
-  return drivers.splice(2)
+  drivers.splice(2)
+  return drivers
+  
 }
